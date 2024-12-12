@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
   name: {
     marginBottom: 4,
 
-    fontSize: 20,
+    fontSize: 22,
     fontWeight: '500',
   },
   ratingContainer: {
