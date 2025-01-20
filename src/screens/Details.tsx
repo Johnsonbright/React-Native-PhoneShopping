@@ -107,7 +107,7 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
   offerPercentage: {
-    fontSize: 17,
+    fontSize: 16.5,
     fontWeight: '600',
     color: '#4bb550',
 
